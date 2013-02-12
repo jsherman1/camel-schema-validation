@@ -22,7 +22,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.redhat</groupId>
-  <artifactId>blueprint-validator</artifactId>
+  <artifactId>camel-schema-validation</artifactId>
   <packaging>bundle</packaging>
   <version>1.0-SNAPSHOT</version>
 
