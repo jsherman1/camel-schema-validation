@@ -25,7 +25,7 @@ Installing the example
 To deploy the example in OSGi. For example using Apache ServiceMix
 or Apache Karaf. You will run the following command from its shell:
 
-    osgi:install -s mvn:com.redhat/blueprint-validator
+    osgi:install -s mvn:com.redhat/camel-schema-validation
 
 For more help see the Apache Camel documentation
 
